@@ -1,0 +1,22 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs20 \cf0 \cb2 \CocoaLigature0 Please wait the results are being calculated Thank you...\
+\
+\
+What are the most popular three articles of all time?:\
+(1) "Candidate is jerk, alleges rival" with 338647 views\
+(2) "Bears love berries, alleges bear" with 253801 views\
+(3) "Bad things gone, say good people" with 170098 views\
+\
+Who are the most popular article authors of all time? :\
+(1) Ursula La Multa with 507594 views\
+(2) Rudolf von Treppenwitz with 423457 views\
+(3) Anonymous Contributor with 170098 views\
+\
+On which days did more than 1% of requests lead to errors? :\
+July 17, 2016 -- 2.3% errors}
